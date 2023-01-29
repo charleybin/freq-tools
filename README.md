@@ -1,2 +1,2 @@
 # freqBashScripts
-Frequently used bash scripts
+save some bash scripts that used very frequently.
